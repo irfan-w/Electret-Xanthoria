@@ -1,2 +1,2 @@
-# Electret-Xanthoria-v1
+# Electret-Xanthoria
 Firmware and complete technical documentation for the Electret Xanthoria v1
